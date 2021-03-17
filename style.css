@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
 }
 #columns {
     align-items: center;
@@ -70,7 +71,7 @@ body {
 }
 #footer {
     width: 100%;
-    padding: 40px;
+    padding-top: 40px;
     margin-top: 40px;
     height: 200px;
     color: #a3a097;
@@ -78,6 +79,7 @@ body {
     background-image: url(zabek.jpg);
     background-repeat: repeat-x;
     text-align: center;
+    
     
 }
 #main {
